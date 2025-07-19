@@ -1,4 +1,5 @@
 # DataViz Pro 📊✨ (Pilot Program)
+[![Go Live](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://datavizprotool.netlify.app/)
 
 **Tagline:** *From Raw Data to Intelligent Insights, Instantly.*
 
