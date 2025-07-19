@@ -13,10 +13,29 @@ Go beyond manual exploration—choose between standard analysis for quick insigh
 
 ---
 
-### 🖼️ Application Preview
+### 🖼️ How It Works
 
-![DataViz Pro Workflow](https://i.imgur.com/9vYmG9d.gif)
-*An overview of the DataViz Pro workflow: Import Data → Choose Analysis → View Insights.*
+Here is a quick overview of the application workflow from start to finish.
+
+**Step 1: Import Your Data**
+Begin by uploading a CSV file or pasting a link to a public Google Sheet on the main interface.
+
+![Main Interface](https://raw.githubusercontent.com/Nathishwar-prog/DataViz-Pro-AI-Software/main/Preview-software/Main-interface.png)
+
+**Step 2: Choose Your Analysis Type**
+Select between a quick "Standard Analysis" or the more powerful "AI-Powered Analysis" which requires a Google AI API key.
+
+![Choose Analysis Type](https://raw.githubusercontent.com/Nathishwar-prog/DataViz-Pro-AI-Software/main/Preview-software/Analysis%20request.png)
+
+**Step 3: Interact with the AI**
+If you choose the AI mode, you can ask questions about your data in plain English to get specific insights.
+
+![AI Chat Interface](https://raw.githubusercontent.com/Nathishwar-prog/DataViz-Pro-AI-Software/main/Preview-software/Ai-chat.png)
+
+**Step 4: View Your Dashboard**
+The application generates a comprehensive dashboard with key metrics, category distributions, and other visualizations based on your data.
+
+![Dashboard View](https://raw.githubusercontent.com/Nathishwar-prog/DataViz-Pro-AI-Software/main/Preview-software/Dashboard.png)
 
 ---
 
@@ -29,27 +48,16 @@ DataViz Pro is packed with features to make data analysis intuitive and powerful
 * **Link Format:** Connect directly to live data sources by providing a public Google Sheets link.
 
 #### 🔬 Analysis Modes
-Choose the analysis method that best fits your needs.
-
-* **Standard Analysis:**
-    * Generates essential visualizations and statistical summaries from your dataset.
-    * Provides a quick, high-level overview of your data's key metrics, category distributions, and correlations.
-    * Ideal for straightforward reporting and monitoring.
-
-* **AI-Powered Analysis:**
-    * **Natural Language Query:** Ask questions in plain English (e.g., *"What are the total sales?"*) and get instant answers visualized.
-    * **Data Quality Check:** The AI automatically scans your data to find errors, inconsistencies, and missing values, suggesting ways to clean and improve it.
-    * **Deep Search & Filtering:** Perform intelligent searches within your dataset and filter by columns to quickly locate specific records or patterns.
-    * **Requires Google AI API Key:** To use the advanced features, you'll need to provide your own Google AI Studio API key.
+* **Standard Analysis:** Generates essential visualizations and statistical summaries from your dataset.
+* **AI-Powered Analysis:** Use natural language queries, check data quality, and perform deep searches. **Requires a Google AI API key.**
 
 #### 📈 Core Visualization & Collaboration
-* **Multiple Views:** Explore your data through different lenses:
-    * **All Insights:** A comprehensive dashboard with key metrics and charts.
-    * **Dashboard:** A customizable space for your most important visuals.
-    * **Data Cards:** View individual records in a clean, card-based format.
-    * **Data Table:** Interact with your raw data in a traditional table layout.
+* **Multiple Views:** Explore your data through a comprehensive dashboard, individual data cards, or a raw data table.
 * **Rich Chart Library:** From essential bar and line graphs to advanced heatmaps and geo-plots.
-* **Easy Export & Sharing:** Share your insights with a single click via secure links or export visualizations as high-resolution images (PNG, SVG).
+* **Easy Export & Sharing:** Share your insights with a single click via secure links or export visualizations as high-resolution images.
+* **Clear Instructions:** A simple "Getting Started" guide is available in the app to help you.
+  ![Instructions](https://raw.githubusercontent.com/Nathishwar-prog/DataViz-Pro-AI-Software/main/Preview-software/Instruction.png)
+
 
 ---
 
